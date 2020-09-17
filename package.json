@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "postcss-cli": "7.1.1",
-    "autoprefixer": "9.8.4"
+    "autoprefixer": "9.8.4",
+    "PhotoSwipe": "4.1.3"
   }
 }
