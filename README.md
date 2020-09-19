@@ -26,9 +26,9 @@ First of all, create an account on Github (https://github.com/join). After this 
 ## Configure git
 `git` should come pre-installed on Mac. 
 
-Now open your Terminal. If you don't know how to open Terminal: If you don't know how to open Terminal: On the right-top corner, you can see a search icon, i.e., Spotlight Search. Click it and input "Terminal" and then press the `Enter` key. 
+Now open your Terminal. If you don't know how to open Terminal: On the right-top corner, you can see a search icon, i.e., Spotlight Search. Click it and input "Terminal" and then press the `Enter` key. 
 
-Don't close your Terminal throught the instruction. 
+Don't close your Terminal throughout the instruction. 
 
 In your Terminal, type `git --version` and press the `Enter` key. You should be able to see your git version. If not, you need to download git [here](https://git-scm.com/downloads) first. 
 
