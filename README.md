@@ -2,6 +2,25 @@ This is the website for the Buddhist Study Association of Indiana University Blo
 
 If you are the administrator of BSA, and want to be able to update the website, read the following instructions. I am assuming you are using a Mac. 
 
+Table of Contents
+=================
+
+      * [Create an account on GitHub](#create-an-account-on-github)
+      * [Configure git](#configure-git)
+      * [Download Hugo](#download-hugo)
+      * [Clone the project](#clone-the-project)
+      * [Install nvm, npm, Node.js](#install-nvm-npm-nodejs)
+      * [Install postcss-cli, and autoprefixer](#install-postcss-cli-and-autoprefixer)
+      * [Make changes to the website content](#make-changes-to-the-website-content)
+         * [Add new posts in updates](#add-new-posts-in-updates)
+         * [Download Sublime Text](#download-sublime-text)
+         * [Add a new album](#add-a-new-album)
+         * [Add a new posts section](#add-a-new-posts-section)
+         * [Add a new single page](#add-a-new-single-page)
+      * [Publish](#publish)
+      * [Terminal](#terminal)
+
+
 ## Create an account on GitHub
 First of all, create an account on Github (https://github.com/join). After this is done, send me an email and let me know your GitHub username. My email address can be found on [my homepage](https://hongtaoh.com/).
 
@@ -55,7 +74,7 @@ cd BSA
 
 Now, you should see a folder named `bsa` on your Desktop. 
 
-## Installing nvm, npm, Node.js
+## Install nvm, npm, Node.js
 
 All the codes you see should be copied and pasted into your Terminal. I won't repeat remind of inputing things in your Terminal later. 
 
@@ -64,7 +83,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
 nvm install stable
 ```
 
-## Installing `postcss-cli`, and `autoprefixer`
+## Install `postcss-cli`, and `autoprefixer`
 
 ```bash
 sudo npm i -g postcss-cli
@@ -135,7 +154,7 @@ or Vimeo videos:
 
 (The above line of code is not for Termainl)
 
-You can view the results [here](https://hugo-tutorial.hongtaoh.com/2020/06/05/what-you-can-do-with-hugo-and-markdown/)
+You can view the results [here](https://hugo-tutorial.hongtaoh.com/2020/06/05/what-you-can-do-with-hugo-and-markdown/).
 
 ### Download Sublime Text
 
