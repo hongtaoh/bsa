@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-09-19T07:50:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/yoursinglepagename/</loc>
+    <lastmod>2020-09-19T07:50:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/thirdalbum/</loc>
+    <lastmod>2020-09-19T07:31:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/updates/2020-09-17/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/about/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url>
   
