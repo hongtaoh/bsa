@@ -4,21 +4,20 @@ If you are the administrator of BSA, and want to be able to update the website, 
 
 Table of Contents
 =================
-
-      * [Create an account on GitHub](#create-an-account-on-github)
-      * [Configure git](#configure-git)
-      * [Download Hugo](#download-hugo)
-      * [Clone the project](#clone-the-project)
-      * [Install nvm, npm, Node.js](#install-nvm-npm-nodejs)
-      * [Install postcss-cli, and autoprefixer](#install-postcss-cli-and-autoprefixer)
-      * [Make changes to the website content](#make-changes-to-the-website-content)
-         * [Add new posts in updates](#add-new-posts-in-updates)
-         * [Download Sublime Text](#download-sublime-text)
-         * [Add a new album](#add-a-new-album)
-         * [Add a new posts section](#add-a-new-posts-section)
-         * [Add a new single page](#add-a-new-single-page)
-      * [Publish](#publish)
-      * [Terminal](#terminal)
+* [Create an account on GitHub](#create-an-account-on-github)
+* [Configure git](#configure-git)
+* [Download Hugo](#download-hugo)
+* [Clone the project](#clone-the-project)
+* [Install nvm, npm, Node.js](#install-nvm-npm-nodejs)
+* [Install postcss-cli, and autoprefixer](#install-postcss-cli-and-autoprefixer)
+* [Make changes to the website content](#make-changes-to-the-website-content)
+    * [Add new posts in updates](#add-new-posts-in-updates)
+    * [Download Sublime Text](#download-sublime-text)
+    * [Add a new album](#add-a-new-album)
+    * [Add a new posts section](#add-a-new-posts-section)
+    * [Add a new single page](#add-a-new-single-page)
+* [Publish](#publish)
+* [Terminal](#terminal)
 
 
 ## Create an account on GitHub
